@@ -4,6 +4,9 @@ body {
     font-family: "Ubuntu", sans-serif;
     background: rgb(233, 231, 238);
   }
+  h1{
+    font-size: 2em;
+  }
 #banner {
     background-image: url(images/donation4.jpg);
     background-size: cover;
