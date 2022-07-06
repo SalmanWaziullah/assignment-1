@@ -7,6 +7,9 @@ body {
   h1{
     font-size: 2em;
   }
+  p{
+    font-size:1em;
+  }
 #banner {
     background-image: url(images/donation4.jpg);
     background-size: cover;
@@ -42,6 +45,17 @@ body {
     font-weight: bold;
     font-size: 18px;
     border-radius: 5px;
+}
+.title{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+.title h1{
+    font-size:50px;
+}
+.title p{
+    font-size:25px;
 }
     
  .donate-details{
@@ -138,4 +152,7 @@ body {
     background: #000;
     text-align: center;
     padding: 40px;
+  }
+  footer h1{
+    color :tomato;
   }
